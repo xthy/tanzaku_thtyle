@@ -1,6 +1,6 @@
 # Tanzaku_THTYLE  
 
-[Tanzaku][http://wordpress.org/themes/tanzaku] is a Wordpress Theme originally created by [Tripelships Inc.][http://www.tripleships.com/].  
+[Tanzaku](http://wordpress.org/themes/tanzaku) is a Wordpress Theme originally created by [Tripelships Inc.](http://www.tripleships.com/).  
 
 Tanzaku_THTYLE is a edited version of Tanzaku Theme by xthy(a.k.a. Taeho Yang).  
 
